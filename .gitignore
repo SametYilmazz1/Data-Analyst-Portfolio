@@ -1,0 +1,15 @@
+# Jupyter notebook yedek klasörü
+.ipynb_checkpoints/
+
+# Mac sistem dosyaları
+.DS_Store
+
+# Python önbellek klasörleri
+__pycache__/
+*.py[cod]
+
+# Ortam dosyaları
+.env
+.venv
+
+
